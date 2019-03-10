@@ -1,0 +1,2 @@
+Hello, This is sangsoo park
+first time to access git
